@@ -1,0 +1,2 @@
+# sjis
+Haj
